@@ -6,7 +6,7 @@ authors:
 homepage: https://github.com/xqwzts/feedparser
 
 dependencies:
-  xml: "^3.0.0-alpha"
+  xml: ^3.5.0
   
 dev_dependencies:
-  test: ^0.12.0
+  test: ^1.6.3
